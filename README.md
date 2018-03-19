@@ -32,6 +32,12 @@ El alcance del caso de estudio se divide en las siguientes areas:
 
 - OAuth 2
 
+### Despliegue
+
+- Azure
+- Heroku
+- Amazon Web Services
+
 ## Recursos
 
 /users
